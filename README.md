@@ -1,15 +1,8 @@
 # Board-Portfolio
 Pictures of some printed circuit boards I've designed
 
-<figure>
-  <img src="semi-conductor.jpg" width="40%" />
-  <figcaption>
-    A PIC microcontroller-based music synthesizer board
-  </figcaption>
-</figure>
-
-![](semi-conductor.jpg)
-.center[test caption]
+<img src="semi-conductor.jpg" width="40%">
+A PIC microcontroller-based music synthesizer board
 
 <img src="funkyDDS.jpg" width="40%">
 <figcaption>
